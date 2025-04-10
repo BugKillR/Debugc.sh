@@ -1,4 +1,14 @@
-<h1>Komut Listesi</h1>
+<h1>Açıklama</h1>
+
+<h3>Kullanım</h3>
+
+<h4>Terminal(Temsili):</h4>
+<ul>
+  <li><p>user@user: ./debugc.sh [dosya adi(ft_putchar.c)]</p></li>
+</ul>
+<hr>
+
+<h3>Komut Listesi</h3>
 
 <ul>
   <li>next -> Mevcut satırdan bir sonraki satıra geçer.</li>
