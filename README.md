@@ -4,7 +4,7 @@
 
 <h4>Terminal(Temsili):</h4>
 <ul>
-  <li><p>user@user: ./debugc.sh [dosya adi(ft_putchar.c)]</p></li>
+  <li><p>user@user: ./debugc.sh [ dosya adi(ft_putchar.c) ]</p></li>
 </ul>
 <hr>
 
